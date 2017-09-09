@@ -1,5 +1,6 @@
 course-table-header-year,course-table-header-day-of-week,course-table-header-time,course-table-header-number-per-class,course-table-header-price
-F.3,Tue,16:00-17:00,4,500 (4 sessions)
-F.4,Tue,17:00-18:30,4,880 (4 sessions)
-F.5,Tue,18:30-20:00,4,880 (4 sessions)
-F.5,Tue,20:00-21:30,4,880 (4 sessions)
+F.3,Mon,16:00-17:00,4,500 (4 sessions)
+F.3,Wed,16:00-17:00,4,500 (4 sessions)
+F.4,Mon,17:00-18:30,4,880 (4 sessions)
+F.5,Wed,17:00-18:30,4,880 (4 sessions)
+F.5,Sat,14:30-16:00,4,880 (4 sessions)
