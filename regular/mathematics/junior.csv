@@ -1,4 +1,4 @@
 course-table-header-year,course-table-header-day-of-week,course-table-header-time,course-table-header-number-per-class,course-table-header-price
-F.1,Wed & Fri,16:00-17:00,7,780 (8 sessions)
-F.2,Mon & Wed,16:00-17:00,7,780 (8 sessions)
-F.3,Tue & Thu,16:00-17:00,7,780 (8 sessions)
+F.1,Wed & Fri,16:00-17:00,7,780 (8<span data-i18n="sessions"></span>)
+F.2,Mon & Wed,16:00-17:00,7,780 (8<span data-i18n="sessions"></span>)
+F.3,Tue & Thu,16:00-17:00,7,780 (8<span data-i18n="sessions"></span>)
